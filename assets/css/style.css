@@ -70,11 +70,11 @@ img {
 }
 
 .slide-1{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url(/assets/images/cover1.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url(/assets/images/cover1.JPG);
 }
 
 .slide-2{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url(/assets/images/cover2.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url(/assets/images/cover2.JPG);
 }
 
 #heroSlider h6::before,
@@ -171,7 +171,7 @@ img {
 
 /* review */
 #reviews{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url(/assets/images/cover3.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url(/assets/images/cover3.JPG);
 }
 
 .review img{
