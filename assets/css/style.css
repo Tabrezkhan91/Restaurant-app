@@ -70,11 +70,11 @@ img {
 }
 
 .slide-1{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url(/assets/images/cover1.JPG);
+    background:url(/assets/images/cover1.JPG);
 }
 
 .slide-2{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url(/assets/images/cover2.JPG);
+    background:url(/assets/images/cover2.JPG);
 }
 
 #heroSlider h6::before,
@@ -140,7 +140,7 @@ img {
 /* Features */
 
 #features{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url(/assets/images/cover2.JPG);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url(/assets/images/cover1.JPG);
 }
 
 .feature{
